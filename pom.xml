@@ -45,7 +45,6 @@
                 <version>3.0.1</version>
                 <configuration>
                     <effort>Max</effort>
-                    <treshold>Low</treshold>
                     <xmlOutput>true</xmlOutput>
                 </configuration>
             </plugin>
