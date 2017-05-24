@@ -16,6 +16,6 @@ public class SimpleCaseTest {
 
     @Test
     public void shouldGiveAlwaysFalse() throws Exception {
-        assertThat(SimpleCase.alwaysFalse(), CoreMatchers.equalTo(true));
+        assertThat(SimpleCase.alwaysFalse(), CoreMatchers.equalTo(false));
     }
 }
